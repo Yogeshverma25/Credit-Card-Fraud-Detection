@@ -5,7 +5,7 @@
 ![Framework](https://img.shields.io/badge/UI-Streamlit-red)
 
 ## 📌 Project Overview
-This is a B.Tech 3rd-year Machine Learning project focused on detecting fraudulent credit card transactions. 
+This is a B.Tech 2rd-year Machine Learning project focused on detecting fraudulent credit card transactions. 
 
 Real-world credit card data is highly imbalanced (usually 99.8% valid vs. 0.2% fraud). A standard machine learning model will fail to detect fraud in such scenarios. This project tackles this challenge using **SMOTE (Synthetic Minority Over-sampling Technique)** to balance the data and utilizes an interactive web dashboard for real-time transaction monitoring and analysis.
 
